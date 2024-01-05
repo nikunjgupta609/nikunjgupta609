@@ -1,16 +1,23 @@
-### Hi there 👋
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=nikunjgupta609.nikunjgupta609" />
 
-<!--
-**nikunjgupta609/nikunjgupta609** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Nikunj+Gupta!;" />
+</h1>
 
-Here are some ideas to get you started:
+<div align="center">
+ 
+ 🔭 I’m currently working on **Generative AI**
+ 
+ 🌱 I’m currently learning **Three.Js, Salesforce, 3D pipeline**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💬 Ask me about **front-End, modelling ... or anything [here](https://github.com/nikunjgupta609/nikunjgupta609/issues)**
+
+ </div>
+<br/>
+<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
+<br/>
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=react,bootstrap,html,css,github,blender,tailwind,java" /><br>
+    <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,typescript,mongodb,pytorch,tensorflow,nextjs,mysql" /><br>
+</div>
+
